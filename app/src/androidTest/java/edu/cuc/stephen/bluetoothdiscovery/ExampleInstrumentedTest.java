@@ -1,4 +1,4 @@
-package edu.cuc.stephen.bluetoothstrength;
+package edu.cuc.stephen.bluetoothdiscovery;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
